@@ -1,1 +1,1 @@
-# Shams-storex
+# shams-store
